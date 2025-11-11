@@ -1,0 +1,3 @@
+Nov 11 [11:31AM] bank + 0.000 xtest
+Nov 11 [11:31AM] cash > bank 0.000
+Nov 11 [11:32AM] cash - 0.000 dtest

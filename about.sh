@@ -11,7 +11,7 @@ printf '\e[A\e[K'
 sl
 done
 
-echo "       v1.0 | github.com/hikkiraa"
+echo "       v1.0 | github.com/kiranokaze"
 
 for i in {1..11}; do
 	echo ""
